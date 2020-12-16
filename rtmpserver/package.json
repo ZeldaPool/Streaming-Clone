@@ -1,0 +1,14 @@
+{
+	"name": "rtmpserver",
+	"version": "1.0.0",
+	"description": "RTMP Server",
+	"main": "index.js",
+	"scripts": {
+		"start": "node index.js"
+	},
+	"author": "ZP",
+	"license": "ISC",
+	"dependencies": {
+		"node-media-server": "^2.2.4"
+	}
+}
